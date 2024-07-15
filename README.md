@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Hospital data tracking and sharing with ML<br>👯 I’m collaborating with FarTech solutions to create chatbot solutions for businesses<br>🤝 I’m looking for help with frontend (react JS preferred, or any other framework) <br>🌱 I’m currently learning Database security, Advance topics in Multithreading with Rust<br>💬 If you need help with Backend development especially with Django, NodeJS contact me: jamesmsasi67@gmail.com<br>⚡ Fun fact: I know a thing or two about negotiating 😉
+🔭 I’m currently working on Hospital data tracking and sharing with ML<br>👯 I’m collaborating with FarTech solutions to create chatbot solutions for businesses<br>🤝 I’m looking for help with frontend (react JS preferred, or any other framework) <br>🌱 I’m currently learning Database security, Advance topics in Multithreading with Rust<br>💬 If you need help with Backend development especially with Django, NodeJS contact me: jamesmsasi67@gmail.com<br>💻 Worked on proprietary project that I can't share on my account but I am happy to talk about them<br>⚡ Fun fact: I know a thing or two about negotiating 😉
 
 
 ## 🌐 Socials:
